@@ -80,17 +80,7 @@ credspray.sh -t 10.10.10.100 -u users.txt -p nagoyapasswords.txt
 
 ### Install CredSpray
 
-**Option 1: Using pip/pip3 (recommended)**
-```bash
-pip3 install credspray
-```
-
-**Option 2: Using pipx**
-```bash
-pipx install credspray
-```
-
-**Option 3: Manual installation**
+**Manual installation**
 ```bash
 # Clone the repository
 git clone https://github.com/strikoder/CredSpray.git
